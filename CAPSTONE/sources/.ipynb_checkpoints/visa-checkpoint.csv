@@ -1,0 +1,20 @@
+visa_code,visa_categorie,visa_type,visa_type_description
+1,Business,B1,Visa Holder: Non-Immigrant Temporary Visitor for Business
+1,Business,WB,Visa Waiver Program: Temporary Visitor for Business admitted without a Visa
+1,Business,GB,Visa Waiver Program: Guam Visa Waiver Business
+1,Business,GMB,Guam Marianas Business
+1,Business,I,Visa Holder: Foreign Professional Journalist, Information Media, including Spouse and Child
+1,Business,I1,Visa Holder: Foreign Professional Journalist, Information Media, including Spouse and Child
+1,Business,E1,Visa Holder: Treaty Trader based on the Trade Treaty between the U.S. and Home Country
+1,Business,E2,Visa Holder: Treaty Investor based on the Treaty between the U.S. and Home Country
+2,Pleasure,B2,Visa Holder: Non-Immigrant Temporary Visitor for Pleasure
+2,Pleasure,WT,Visa Waiver Program: Temporary Visitor for Pleasure admitted without a Visa
+2,Pleasure,GT,Visa Waiver Program: Guam Visa Waiver Tourist
+2,Pleasure,GMT,Guam Marianas Tourist
+2,Pleasure,CP,Parolee (Public Interest – Headquarters) (urgent, medical, family needs) (country code not equal to 584 “Cuba”)
+2,Pleasure,CPL,Silent Parolee (do not disclose)
+2,Pleasure,SBP,Silent Parolee at POE – CBP
+3,Student,F1,Visa Holder: Non-Immigrant Student and Exchange Visitor - Academic Student
+3,Student,F2,Visa Holder: Spouse or Child of Academic Student
+3,Student,M1,Visa Holder: Student pursuing a full course of study at an established vocational or other recognized non-academic institution (other than in a language training program)
+3,Student,M2,Visa Holder: Spouse or Child of M-1 Vocational Student
