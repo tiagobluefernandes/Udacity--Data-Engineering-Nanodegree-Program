@@ -27,12 +27,12 @@ For this project, you'll be working with two datasets. Here are the s3 links for
 - SQL queries:
 	- create_tables.sql:   initial queries to create all tables
 	- sql_queries:         queries to insert data into tables 
-    	- sql_data_quality.py: queries to assert data quality after ETL
+    - sql_data_quality.py: queries to assert data quality after ETL
 - custom operators:
 	- stage_redshift.py
-    	- load_fact.py
-    	- load_dimension.py
-    	- data_quality.py
+    - load_fact.py
+    - load_dimension.py
+    - data_quality.py
 
 ## Comments:
 Create redshift cluster and configure airflow connections.
